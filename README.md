@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maramjabnounii
-- 👀 I’m interested in system administration, network security, web/mobile development.
-- 🌱 I’m currently learning about system administration.
+- 👀 I’m interested in network and system administration, network security, web/mobile development.
 - 📫 How to reach me : https://www.facebook.com/maram.jb.93/
 
 <!---
